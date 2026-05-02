@@ -1,10 +1,68 @@
-- 👋 Hi, I’m @mohamed-soubhi Embeded Sofware Engineer
-- 👀 I’m interested in data analysis and Machine learning
-- 🌱 I’m currently learning more about ML
-- 💞️ I’m looking to collaborate on Machine learning
-- 📫 How to reach me ... by email eng.mohamed.soubhi@gmail.com and linkedin : https://www.linkedin.com/in/mohamed-soubhi/
+# Hi, I'm Mohamed Soubhi
 
-<!---
-mohamed-soubhi/mohamed-soubhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Senior Automotive Software Engineer** — bridging safety-critical embedded systems and graph data science.
+
+11+ years building automotive software at **Valeo**, **TTTech Auto**, and **Concentrio AG**.
+Currently applying **Neo4j Graph Data Science** and **Python** to automotive software validation at scale.
+
+🌐 **[mohamed-soubhi.github.io](https://mohamed-soubhi.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-soubhi) · 📊 [Kaggle](https://www.kaggle.com/mohamedsoubhi)
+
+---
+
+## What I Work On
+
+- **AUTOSAR** embedded software (BSW / RTE / ASW) on ARM Cortex-M7 and AURIX TC3xx
+- **Functional Safety** — ASIL B, ISO 26262, ASPICE Level 4
+- **Graph-based software validation** — Neo4j signal-flow analysis for automotive code quality
+- **Data pipelines** for automotive software analysis (Python, Pandas, Docker)
+- **Diagnostic software** — UDS / ISO 14229-1, CANalyzer, Davinci Configurator
+
+---
+
+## Stack
+
+**Embedded**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Cortex--M7-0091BD?style=flat&logo=arm&logoColor=white)
+![AUTOSAR](https://img.shields.io/badge/AUTOSAR-003B6E?style=flat)
+![MISRA](https://img.shields.io/badge/MISRA--C-555?style=flat)
+
+**Data Science**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [c-dependency-graph](https://github.com/mohamed-soubhi/c-dependency-graph) | Parses C/C++ source and visualizes function-call dependencies as a Neo4j graph — mirrors production validation work | Python · Neo4j · Cypher |
+| [can-bus-analysis](https://github.com/mohamed-soubhi/can-bus-analysis) | Anomaly detection on automotive CAN bus signal data | Python · Pandas · Scikit-learn |
+| [embedded-python-tools](https://github.com/mohamed-soubhi/embedded-python-tools) | Automation scripts for embedded workflows: MISRA parsing, log analysis, code gen helpers | Python |
+| [autosar-notes](https://github.com/mohamed-soubhi/autosar-notes) | Curated AUTOSAR concepts, architecture diagrams, and cheat sheets | Markdown |
+
+---
+
+## Career
+
+```
+2023 – Present  │ Concentrio AG (Madrid)    │ Senior Software Engineer · AUTOSAR · Graph Data Science
+2021 – 2023     │ TTTech Auto (Madrid)      │ Safety Embedded SW Engineer · Motionwise / HIP32G
+2017 – 2021     │ Valeo (Cairo)             │ Senior Embedded SW Engineer · Powertrain Systems
+2015 – 2016     │ BioBusiness (Cairo)       │ Embedded SW Engineer · Medical Devices
+```
+
+---
+
+*Madrid, Spain · EU Work Permit · Open to SDV, automotive data validation, and Edge AI roles*
