@@ -43,16 +43,7 @@ Currently applying **Neo4j Graph Data Science** and **Python** to automotive sof
 
 ---
 
-## Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [c-dependency-graph](https://github.com/mohamed-soubhi/c-dependency-graph) | Parses C/C++ source and visualizes function-call dependencies as a Neo4j graph — mirrors production validation work | Python · Neo4j · Cypher |
-| [can-bus-analysis](https://github.com/mohamed-soubhi/can-bus-analysis) | Anomaly detection on automotive CAN bus signal data | Python · Pandas · Scikit-learn |
-| [embedded-python-tools](https://github.com/mohamed-soubhi/embedded-python-tools) | Automation scripts for embedded workflows: MISRA parsing, log analysis, code gen helpers | Python |
-| [autosar-notes](https://github.com/mohamed-soubhi/autosar-notes) | Curated AUTOSAR concepts, architecture diagrams, and cheat sheets | Markdown |
-
----
 
 ## Career
 
