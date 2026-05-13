@@ -64,8 +64,7 @@ Currently applying **Neo4j Graph Data Science** and **Python** to automotive sof
   | `pageRank` | PageRank | Central money-hub accounts |
   | `wccComponent` | WCC | Isolated fraud rings |
   | `betweenness` | Betweenness Centrality | Bridge / relay accounts |
-  | `triangleCount` | Cycle Detection (Cypher) | Circular layering flows
-  (A→B→C→A) |
+  | `triangleCount` | Cycle Detection (Cypher) | Circular layering flows  (A→B→C→A) |
 
   **Fraud Rules** — 3 Cypher pattern queries: velocity (>3 txns in 10 steps)
    · mule chain (A→B→C→cashout) · balance drain (≥95% emptied)
