@@ -50,14 +50,10 @@ Currently applying **Neo4j Graph Data Science** and **Python** to automotive sof
   End-to-end fraud detection knowledge graph — Neo4j 5 + GDS algorithms +
   LangChain NL→Cypher.
 
-  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&l
-  ogoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=pytho
-  n&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docke
-  r&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo
-  =langchain&logoColor=white)
+  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
   - Graph algorithms: Louvain · PageRank · WCC · Betweenness Centrality ·
   Cycle Detection
