@@ -55,11 +55,21 @@ Currently applying **Neo4j Graph Data Science** and **Python** to automotive sof
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
-  - Graph algorithms: Louvain · PageRank · WCC · Betweenness Centrality ·
-  Cycle Detection
-  - 3 Cypher fraud rules: velocity, money mule chains, balance drain
-  - Natural language → Cypher via Ollama Cloud (`deepseek-v4-flash`)
-  - Benchmark: WCC 20ms · Betweenness sampled 142× faster than exact ·
+
+  **GDS Algorithm Pipeline** — Account→Account virtual graph projection:
+
+  | Node Property | Algorithm | Fraud Signal |
+  |---|---|---|
+  | `community` | Louvain | High-fraud-density clusters |
+  | `pageRank` | PageRank | Central money-hub accounts |
+  | `wccComponent` | WCC | Isolated fraud rings |
+  | `betweenness` | Betweenness Centrality | Bridge / relay accounts |
+  | `triangleCount` | Cycle Detection (Cypher) | Circular layering flows
+  (A→B→C→A) |
+
+  **Fraud Rules** — 3 Cypher pattern queries: velocity (>3 txns in 10 steps)
+   · mule chain (A→B→C→cashout) · balance drain (≥95% emptied)
+  **Benchmark** — WCC 20ms · sampled Betweenness 142× faster than exact ·
   PageRank converges in 2 iterations
 
   ---
