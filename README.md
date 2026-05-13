@@ -76,15 +76,4 @@ Neo4j 5 + GDS 2.13 · GraphSAGE GNN · LangChain NL→Cypher · Ollama Cloud (`d
 
 ---
 
-## Career
 
-```
-2023 – Present  │ Concentrio AG (Madrid)    │ Senior Software Engineer · AUTOSAR · Graph Data Science
-2021 – 2023     │ TTTech Auto (Madrid)      │ Safety Embedded SW Engineer · Motionwise / HIP32G
-2017 – 2021     │ Valeo (Cairo)             │ Senior Embedded SW Engineer · Powertrain Systems
-2015 – 2016     │ BioBusiness (Cairo)       │ Embedded SW Engineer · Medical Devices
-```
-
----
-
-*Madrid, Spain · EU Work Permit · Open to SDV, automotive data validation, and Edge AI roles*
