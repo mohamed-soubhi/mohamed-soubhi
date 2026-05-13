@@ -43,7 +43,30 @@ Currently applying **Neo4j Graph Data Science** and **Python** to automotive sof
 
 ---
 
+  ## Featured Projects
 
+  ### [Fraud Graph Demo](https://github.com/mohamed-soubhi/fraud-graph-demo)
+
+  End-to-end fraud detection knowledge graph — Neo4j 5 + GDS algorithms +
+  LangChain NL→Cypher.
+
+  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&l
+  ogoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=pytho
+  n&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docke
+  r&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo
+  =langchain&logoColor=white)
+
+  - Graph algorithms: Louvain · PageRank · WCC · Betweenness Centrality ·
+  Cycle Detection
+  - 3 Cypher fraud rules: velocity, money mule chains, balance drain
+  - Natural language → Cypher via Ollama Cloud (`deepseek-v4-flash`)
+  - Benchmark: WCC 20ms · Betweenness sampled 142× faster than exact ·
+  PageRank converges in 2 iterations
+
+  ---
 
 ## Career
 
