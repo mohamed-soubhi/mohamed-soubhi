@@ -32,6 +32,7 @@ Currently applying **Neo4j Graph Data Science** and **Python** to automotive sof
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
@@ -43,35 +44,37 @@ Currently applying **Neo4j Graph Data Science** and **Python** to automotive sof
 
 ---
 
-  ## Featured Projects
+## Featured Projects
 
-  ### [Fraud Graph Demo](https://github.com/mohamed-soubhi/fraud-graph-demo)
+### [Fraud Graph Demo](https://github.com/mohamed-soubhi/fraud-graph-demo)
 
-  End-to-end fraud detection knowledge graph — Neo4j 5 + GDS algorithms +
-  LangChain NL→Cypher.
+End-to-end fraud detection knowledge graph on PaySim synthetic transactions (50k rows).
+Neo4j 5 + GDS 2.13 · GraphSAGE GNN · LangChain NL→Cypher · Ollama Cloud (`deepseek-v4-flash`)
 
-  ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
+**GDS Algorithm Pipeline** — Account→Account virtual graph projection:
 
-  **GDS Algorithm Pipeline** — Account→Account virtual graph projection:
+| Node Property | Algorithm | Fraud Signal |
+|---|---|---|
+| `community` | Louvain | High-fraud-density clusters |
+| `pageRank` | PageRank | Central money-hub accounts |
+| `wccComponent` | WCC | Isolated fraud rings |
+| `betweenness` | Betweenness Centrality | Bridge / relay accounts |
+| `triangleCount` | Cycle Detection (Cypher) | Circular layering flows (A→B→C→A) |
 
-  | Node Property | Algorithm | Fraud Signal |
-  |---|---|---|
-  | `community` | Louvain | High-fraud-density clusters |
-  | `pageRank` | PageRank | Central money-hub accounts |
-  | `wccComponent` | WCC | Isolated fraud rings |
-  | `betweenness` | Betweenness Centrality | Bridge / relay accounts |
-  | `triangleCount` | Cycle Detection (Cypher) | Circular layering flows  (A→B→C→A) |
+**GNN Layer** — 3-layer GraphSAGE trained on GDS properties as node features
+→ writes `fraudProb ∈ [0,1]` to every account · ensemble with rules maximises recall
 
-  **Fraud Rules** — 3 Cypher pattern queries: velocity (>3 txns in 10 steps)
-   · mule chain (A→B→C→cashout) · balance drain (≥95% emptied)
-  **Benchmark** — WCC 20ms · sampled Betweenness 142× faster than exact ·
-  PageRank converges in 2 iterations
+**Fraud Rules** — 3 Cypher pattern queries: velocity (>3 txns in 10 steps) · mule chain (A→B→C→cashout) · balance drain (≥95% emptied)
 
-  ---
+**Benchmark** — WCC 20ms · sampled Betweenness 142× faster than exact · PageRank converges in 2 iterations
+
+---
 
 ## Career
 
