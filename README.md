@@ -4,7 +4,7 @@
 
 🟢 **Open to new opportunities** — AUTOSAR/embedded roles and AI/data automation roles
 
-11+ years building automotive software at **Valeo**, **TTTech Auto**, and **Concentrico**.
+13+ years building automotive software at **Valeo**, **TTTech Auto**, and **Concentrico**.
 Currently applying **Neo4j Graph Data Science** and **Python** to automotive software validation at scale.
 
 🌐 **[mohamed-soubhi.github.io](https://mohamed-soubhi.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-soubhi) · 📊 [Kaggle](https://www.kaggle.com/mohamedsoubhi) · 📧 [eng.mohamed.soubhi@gmail.com](mailto:eng.mohamed.soubhi@gmail.com) 
