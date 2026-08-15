@@ -46,6 +46,23 @@ Currently applying **Neo4j Graph Data Science** and **Python** to automotive sof
 
 ## Featured Projects
 
+ ### ⚡ Modern C++ & Embedded Systems Study Portal
+
+    [![Live Portal](https://img.shields.io/badge/🌐_Live_Portal-Interactive_App-10b981?style=for-the-badge&logo=github)](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)
+    [![Projects](https://img.shields.io/badge/Projects-116_Deep--Dives-38bdf8?style=for-the-badge&logo=c%2B%2B)](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)
+    [![Quizzes](https://img.shields.io/badge/MCQ_Quizzes-464_Questions-a855f7?style=for-the-badge)](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)
+    [![Target](https://img.shields.io/badge/Target-ARM_Cortex--M_%7C_MISRA-ef4444?style=for-the-badge&logo=arm)](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)
+
+    An interactive web companion covering **116 course projects** across 12 sections of Modern C++ (C++11/14/17/20), translated into bare-metal embedded
+  systems architectures:
+    - 💻 **Annotated Source Code**: Full syntax-highlighted viewers with multi-file tabs.
+    - ⚡ **Embedded Hardware Realities**: ARM Cortex-M AAPCS calling conventions, instruction pipelines, struct padding, LittleFS, DMA framebuffers, and
+  MMIO wrappers.
+    - 💡 **Zero-Overhead Refactoring**: Production-ready, deterministic, MISRA-compliant modern C++ design patterns.
+    - 🧠 **464 Interactive Quizzes**: Instant self-checking questions with technical explanations.
+
+    👉 **[Explore the Live Portal](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)** &bull; 📂 **[View Source Code](https://github.com/mohamed-soubhi/The-Complete-Cpp-Developer-Course)**
+
 ### [Fraud Graph Demo](https://github.com/mohamed-soubhi/fraud-graph-demo)
 
 End-to-end fraud detection knowledge graph on PaySim synthetic transactions (50k rows).
