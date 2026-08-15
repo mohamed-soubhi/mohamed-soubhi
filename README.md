@@ -1,11 +1,13 @@
-# Hi, I'm Mohamed Soubhi
+# Hi, I'm Mohamed Soubhi 👋
 
 **Senior Automotive Software Engineer** — bridging safety-critical embedded systems and graph data science.
 
-11+ years building automotive software at **Valeo**, **TTTech Auto**, and **Concentrio AG**.
+🟢 **Open to new opportunities** — AUTOSAR/embedded roles and AI/data automation roles
+
+11+ years building automotive software at **Valeo**, **TTTech Auto**, and **Concentrico**.
 Currently applying **Neo4j Graph Data Science** and **Python** to automotive software validation at scale.
 
-🌐 **[mohamed-soubhi.github.io](https://mohamed-soubhi.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-soubhi) · 📊 [Kaggle](https://www.kaggle.com/mohamedsoubhi)
+🌐 **[mohamed-soubhi.github.io](https://mohamed-soubhi.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-soubhi) · 📊 [Kaggle](https://www.kaggle.com/mohamedsoubhi) · 📧 [eng.mohamed.soubhi@gmail.com](mailto:eng.mohamed.soubhi@gmail.com) 
 
 ---
 
@@ -46,24 +48,27 @@ Currently applying **Neo4j Graph Data Science** and **Python** to automotive sof
 
 ## Featured Projects
 
- ### ⚡ Modern C++ & Embedded Systems Study Portal
+### ⚡ Modern C++ & Embedded Systems Study Portal
 
-    [![Live Portal](https://img.shields.io/badge/🌐_Live_Portal-Interactive_App-10b981?style=for-the-badge&logo=github)](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)
-    [![Projects](https://img.shields.io/badge/Projects-116_Deep--Dives-38bdf8?style=for-the-badge&logo=c%2B%2B)](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)
-    [![Quizzes](https://img.shields.io/badge/MCQ_Quizzes-464_Questions-a855f7?style=for-the-badge)](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)
-    [![Target](https://img.shields.io/badge/Target-ARM_Cortex--M_%7C_MISRA-ef4444?style=for-the-badge&logo=arm)](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)
+[![Live Portal](https://img.shields.io/badge/🌐_Live_Portal-Interactive_App-10b981?style=for-the-badge&logo=github)](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)
+[![Projects](https://img.shields.io/badge/Projects-116_Deep--Dives-38bdf8?style=for-the-badge&logo=c%2B%2B)](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)
+[![Quizzes](https://img.shields.io/badge/MCQ_Quizzes-464_Questions-a855f7?style=for-the-badge)](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)
+[![Target](https://img.shields.io/badge/Target-ARM_Cortex--M_%7C_MISRA-ef4444?style=for-the-badge&logo=arm)](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)
 
-    An interactive web companion covering **116 course projects** across 12 sections of Modern C++ (C++11/14/17/20), translated into bare-metal embedded
-  systems architectures:
-    - 💻 **Annotated Source Code**: Full syntax-highlighted viewers with multi-file tabs.
-    - ⚡ **Embedded Hardware Realities**: ARM Cortex-M AAPCS calling conventions, instruction pipelines, struct padding, LittleFS, DMA framebuffers, and
-  MMIO wrappers.
-    - 💡 **Zero-Overhead Refactoring**: Production-ready, deterministic, MISRA-compliant modern C++ design patterns.
-    - 🧠 **464 Interactive Quizzes**: Instant self-checking questions with technical explanations.
+An interactive web companion covering **116 course projects** across 12 sections of Modern C++ (C++11/14/17/20), translated into bare-metal embedded systems architectures:
 
-    👉 **[Explore the Live Portal](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)** &bull; 📂 **[View Source Code](https://github.com/mohamed-soubhi/The-Complete-Cpp-Developer-Course)**
+- 💻 **Annotated Source Code** — full syntax-highlighted viewers with multi-file tabs
+- ⚡ **Embedded Hardware Realities** — ARM Cortex-M AAPCS calling conventions, instruction pipelines, struct padding, LittleFS, DMA framebuffers, MMIO wrappers
+- 💡 **Zero-Overhead Refactoring** — production-ready, deterministic, MISRA-compliant modern C++ design patterns
+- 🧠 **464 Interactive Quizzes** — instant self-checking questions with technical explanations
 
-### [Fraud Graph Demo](https://github.com/mohamed-soubhi/fraud-graph-demo)
+👉 **[Explore the Live Portal](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)** · 📂 **[View Source Code](https://github.com/mohamed-soubhi/The-Complete-Cpp-Developer-Course)**
+
+---
+
+### 🕵️ Fraud Graph Demo
+
+[![Repo](https://img.shields.io/badge/📂_Repo-View_Source-24292e?style=for-the-badge&logo=github)](https://github.com/mohamed-soubhi/fraud-graph-demo)
 
 End-to-end fraud detection knowledge graph on PaySim synthetic transactions (50k rows).
 Neo4j 5 + GDS 2.13 · GraphSAGE GNN · LangChain NL→Cypher · Ollama Cloud (`deepseek-v4-flash`)
@@ -84,8 +89,7 @@ Neo4j 5 + GDS 2.13 · GraphSAGE GNN · LangChain NL→Cypher · Ollama Cloud (`d
 | `betweenness` | Betweenness Centrality | Bridge / relay accounts |
 | `triangleCount` | Cycle Detection (Cypher) | Circular layering flows (A→B→C→A) |
 
-**GNN Layer** — 3-layer GraphSAGE trained on GDS properties as node features
-→ writes `fraudProb ∈ [0,1]` to every account · ensemble with rules maximises recall
+**GNN Layer** — 3-layer GraphSAGE trained on GDS properties as node features → writes `fraudProb ∈ [0,1]` to every account · ensemble with rules maximises recall
 
 **Fraud Rules** — 3 Cypher pattern queries: velocity (>3 txns in 10 steps) · mule chain (A→B→C→cashout) · balance drain (≥95% emptied)
 
@@ -94,3 +98,6 @@ Neo4j 5 + GDS 2.13 · GraphSAGE GNN · LangChain NL→Cypher · Ollama Cloud (`d
 ---
 
 
+## 📫 Get in Touch
+
+💼 [LinkedIn](https://www.linkedin.com/in/mohamed-soubhi) · 📧 [eng.mohamed.soubhi@gmail.com](mailto:eng.mohamed.soubhi@gmail.com)  · 🌐 [Portfolio](https://mohamed-soubhi.github.io)
