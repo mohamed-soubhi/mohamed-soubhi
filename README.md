@@ -2,7 +2,7 @@
 
 **Senior Automotive Software Engineer** — bridging safety-critical embedded systems and graph data science.
 
-🟢 **Open to new opportunities** — Senior / Lead roles in **AUTOSAR Embedded Systems**, **Edge AI / TinyML**, and **Graph Data Science**
+🟢 **Open to new challenges** — Senior / Lead roles in **AUTOSAR Embedded Systems**, **Edge AI / TinyML**, and **Graph Data Science**
 
 13+ years building automotive software at **Valeo**, **TTTech Auto**, and **Concentrico**.
 Currently applying **Neo4j Graph Data Science** and **Python** to automotive software validation at scale.
