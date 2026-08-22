@@ -84,6 +84,7 @@ An interactive web companion covering **116 course projects** across 12 sections
 
 ### 🕵️ Fraud Graph Demo
 
+[![Live App](https://img.shields.io/badge/🌐_Live_App-Interactive_Workspace-10b981?style=for-the-badge&logo=github)](https://mohamed-soubhi.github.io/fraud-graph-demo/)
 [![Repo](https://img.shields.io/badge/📂_Repo-View_Source-24292e?style=for-the-badge&logo=github)](https://github.com/mohamed-soubhi/fraud-graph-demo)
 
 End-to-end fraud detection knowledge graph on PaySim synthetic transactions (50k rows).
