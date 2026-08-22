@@ -48,6 +48,23 @@ Currently applying **Neo4j Graph Data Science** and **Python** to automotive sof
 
 ## Featured Projects
 
+### 🧠 The Intelligence Leap: When AI Lives Inside the Thing (Edge AI & TinyML)
+[![Live Project Hub](https://img.shields.io/badge/🌐_Live_Project_Hub-Interactive_App-10b981?style=for-the-badge&logo=github)](https://mohamed-soubhi.github.io/Intelligence-Leap-EdgeAi/)
+[![Presentation](https://img.shields.io/badge/🖥️_Slide_Deck-32_Slides-38bdf8?style=for-the-badge&logo=reveal.js)](https://mohamed-soubhi.github.io/Intelligence-Leap-EdgeAi/Edge%20AI.html)
+[![Sensor Fusion Lab](https://img.shields.io/badge/🔬_Sensor_Fusion_Lab-Live_Simulation-f59e0b?style=for-the-badge)](https://mohamed-soubhi.github.io/Intelligence-Leap-EdgeAi/assets/sensor_fusion_explorer.html)
+[![Target Hardware](https://img.shields.io/badge/Target-ESP32--S3_%7C_nRF52840_%7C_Cortex--M-ef4444?style=for-the-badge&logo=microchip)](https://github.com/mohamed-soubhi/Intelligence-Leap-EdgeAi)
+
+A technical conference presentation, interactive telemetry laboratory, and architectural reference on running **real-time deep learning inference directly on resource-constrained microcontrollers** without cloud reliance:
+
+- 🖥️ **Interactive 32-Slide Deck** — complete conference talk with custom canvas scaling, animations, speaker notes, and embedded telemetry
+- 🔬 **Multi-Sensor Fusion Explorer** — bidirectional simulation testing IMU vibration, acoustic, and environmental data classification
+- 🔄 **End-to-End Pipeline Blueprint** — raw sensor acquisition ➔ DSP/MFCC feature extraction ➔ TensorFlow Lite Micro INT8 quantization ➔ bare-metal C++ execution
+- ⚙️ **The 4 Embedded Constraints** — engineering for sub-milliwatt power budgets, kilobyte SRAM memory ceilings, `< 10 ms` latency, and tiny physical form factors
+
+👉 **[Launch Live Project Hub](https://mohamed-soubhi.github.io/Intelligence-Leap-EdgeAi/)** · 🖥️ **[Open Slide Deck](https://mohamed-soubhi.github.io/Intelligence-Leap-EdgeAi/Edge%20AI.html)** · 📂 **[View Repository](https://github.com/mohamed-soubhi/Intelligence-Leap-EdgeAi)**
+
+---
+
 ### ⚡ Modern C++ & Embedded Systems Study Portal
 [![Live Portal](https://img.shields.io/badge/🌐_Live_Portal-Interactive_App-10b981?style=for-the-badge&logo=github)](https://mohamed-soubhi.github.io/Embedded-Cpp-study-portal/)
 [![Projects](https://img.shields.io/badge/Projects-116_Deep--Dives-38bdf8?style=for-the-badge&logo=c%2B%2B)](https://github.com/mohamed-soubhi/Embedded-Cpp-study-portal)
