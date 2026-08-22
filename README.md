@@ -49,8 +49,7 @@ Currently applying **Neo4j Graph Data Science** and **Python** to automotive sof
 ## Featured Projects
 
 ### ⚡ Modern C++ & Embedded Systems Study Portal
-
-[![Live Portal](https://img.shields.io/badge/🌐_Live_Portal-Interactive_App-10b981?style=for-the-badge&logo=github)](https://github.com/mohamed-soubhi/Embedded-Cpp-study-portal)
+[![Live Portal](https://img.shields.io/badge/🌐_Live_Portal-Interactive_App-10b981?style=for-the-badge&logo=github)](https://mohamed-soubhi.github.io/Embedded-Cpp-study-portal/)
 [![Projects](https://img.shields.io/badge/Projects-116_Deep--Dives-38bdf8?style=for-the-badge&logo=c%2B%2B)](https://github.com/mohamed-soubhi/Embedded-Cpp-study-portal)
 [![Quizzes](https://img.shields.io/badge/MCQ_Quizzes-464_Questions-a855f7?style=for-the-badge)](https://github.com/mohamed-soubhi/Embedded-Cpp-study-portal)
 [![Target](https://img.shields.io/badge/Target-ARM_Cortex--M_%7C_MISRA-ef4444?style=for-the-badge&logo=arm)](https://github.com/mohamed-soubhi/Embedded-Cpp-study-portal)
@@ -62,7 +61,7 @@ An interactive web companion covering **116 course projects** across 12 sections
 - 💡 **Zero-Overhead Refactoring** — production-ready, deterministic, MISRA-compliant modern C++ design patterns
 - 🧠 **464 Interactive Quizzes** — instant self-checking questions with technical explanations
 
-👉 **[Explore the Live Portal](https://mohamed-soubhi.github.io/The-Complete-Cpp-Developer-Course/)** · 📂 **[View Source Code](https://github.com/mohamed-soubhi/The-Complete-Cpp-Developer-Course)**
+👉 **[Explore the Live Portal](https://mohamed-soubhi.github.io/Embedded-Cpp-study-portal/)** · 📂 **[View Source Code](https://github.com/mohamed-soubhi/Embedded-Cpp-study-portal)**
 
 ---
 
