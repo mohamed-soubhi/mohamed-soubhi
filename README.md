@@ -112,8 +112,24 @@ Neo4j 5 + GDS 2.13 · GraphSAGE GNN · LangChain NL→Cypher · Ollama Cloud (`d
 
 **Benchmark** — WCC 20ms · sampled Betweenness 142× faster than exact · PageRank converges in 2 iterations
 
+👉 **[Explore Live Fraud Intelligence App](https://mohamed-soubhi.github.io/fraud-graph-demo/)** · 📂 **[View Repository](https://github.com/mohamed-soubhi/fraud-graph-demo)**
+
 ---
 
+### 📊 Used Car Market Valuation & ML Predictor
+
+[![Live App](https://img.shields.io/badge/🌐_Live_App-Interactive_Predictor-10b981?style=for-the-badge&logo=github)](https://mohamed-soubhi.github.io/used-car-dashboard-demo/)
+[![Repo](https://img.shields.io/badge/📂_Repo-View_Source-24292e?style=for-the-badge&logo=github)](https://github.com/mohamed-soubhi/used-car-dashboard-demo)
+
+Interactive machine learning and market analytics platform trained on over **100,000+ real vehicle listings** to predict fair market valuation, non-linear depreciation curves, horsepower premiums, and options bundle lifts:
+
+- 🏎️ **Live In-Browser ML Valuation** — instantaneous vehicle pricing adjusting for brand, body, mileage, horsepower, options, and accident history
+- 📉 **Dynamic Depreciation Decay** — real-time 8-year resale value curves reflecting non-linear brand retention rates
+- 💡 **Value Attribution Waterfall** — visual decomposition of base MSRP, power lift, package premiums, and age/mileage penalties
+
+👉 **[Launch Live Valuation App](https://mohamed-soubhi.github.io/used-car-dashboard-demo/)** · 📂 **[View Repository](https://github.com/mohamed-soubhi/used-car-dashboard-demo)**
+
+---
 
 ## 📫 Get in Touch
 
