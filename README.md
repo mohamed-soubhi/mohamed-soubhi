@@ -13,33 +13,40 @@ Currently applying **Neo4j Graph Data Science** and **Python** to automotive sof
 
 ## What I Work On
 
-- **AUTOSAR** embedded software (BSW / RTE / ASW) on ARM Cortex-M7 and AURIX TC3xx
-- **Functional Safety** — ASIL B, ISO 26262, ASPICE Level 4
-- **Graph-based software validation** — Neo4j signal-flow analysis for automotive code quality
-- **Data pipelines** for automotive software analysis (Python, Pandas, Docker)
-- **Diagnostic software** — UDS / ISO 14229-1, CANalyzer, Davinci Configurator
+- 🚗 **AUTOSAR & Embedded Architecture** — BSW, RTE, and ASW development on **ARM Cortex-M7** & **Infineon AURIX TC3xx** (C & Modern C++17/20)
+- 🛡️ **Functional Safety & Quality** — ISO 26262 (**ASIL B/D**), ASPICE engineering processes, and MISRA-C/C++ compliance
+- 🧠 **Edge AI & TinyML** — Model compression, INT8 post-training quantization, and real-time DSP sensor fusion on bare-metal MCUs (TFLite Micro)
+- 🕸️ **Graph Data Science & AI Agents** — Neo4j GDS topology analytics, Graph Neural Networks (GraphSAGE), and LangGraph agent pipelines for automotive software validation
+- 📡 **Diagnostics & Networks** — UDS (ISO 14229-1), CAN-FD, SOME/IP, Vector CANoe, and DaVinci Configurator
 
 ---
 
-## Stack
+## Technical Stack
 
-**Embedded**
+**Embedded & Automotive Systems**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/Modern_C%2B%2B17%2F20-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![ARM](https://img.shields.io/badge/ARM_Cortex--M7-0091BD?style=flat&logo=arm&logoColor=white)
-![AUTOSAR](https://img.shields.io/badge/AUTOSAR-003B6E?style=flat)
-![MISRA](https://img.shields.io/badge/MISRA--C-555?style=flat)
+![AURIX](https://img.shields.io/badge/AURIX_TC3xx-0A2540?style=flat)
+![AUTOSAR](https://img.shields.io/badge/AUTOSAR_Classic-003B6E?style=flat)
+![ISO 26262](https://img.shields.io/badge/ISO_26262_ASIL_B-10B981?style=flat)
+![MISRA](https://img.shields.io/badge/MISRA--C%2FC%2B%2B-555?style=flat)
+![CAN-FD](https://img.shields.io/badge/CAN--FD_%7C_UDS-D97706?style=flat)
 
-**Data Science**
+**Edge AI & Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![TFLite Micro](https://img.shields.io/badge/TFLite_Micro_%7C_INT8-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j_GDS-008CC1?style=flat&logo=neo4j&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch_%7C_PyG_GNN-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph_%7C_LLM_Agents-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-**Tools**
+**DevOps & Tooling**
 
+![Vector](https://img.shields.io/badge/Vector_CANoe_%7C_DaVinci-CC0000?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
