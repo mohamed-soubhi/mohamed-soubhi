@@ -1,58 +1,84 @@
-# Hi, I'm Mohamed Soubhi 👋
+<div align="center">
 
-**Senior Automotive Software Engineer** — bridging safety-critical embedded systems and graph data science.
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="38" height="38" /> Hi, I'm Mohamed Soubhi
 
-13+ years architecting safety-critical automotive software at **Valeo**, **TTTech Auto (TrustMotion)**, and **Concentrico**.
-Bridging **AUTOSAR & Modern C++ embedded platforms** with **Edge AI / TinyML** and **Graph Data Science**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Senior+Automotive+Software+Engineer+%F0%9F%9A%97;AUTOSAR+%26+Modern+C%2B%2B17%2F20+Architect+%E2%9A%A1;Edge+AI+%26+TinyML+Specialist+(TFLite+Micro)+%F0%9F%A7%A0;Graph+Data+Science+%26+GNN+Practitioner+%F0%9F%95%B8%EF%B8%8F;Safety-Critical+Systems+(ISO+26262+ASIL+B%2FD)+%F0%9F%9B%A1%EF%B8%8F)](https://git.io/typing-svg)
 
-🌐 **[mohamed-soubhi.github.io](https://mohamed-soubhi.github.io)** · 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-soubhi) · 📊 [Kaggle](https://www.kaggle.com/mohamedsoubhi) · 📧 [eng.mohamed.soubhi@gmail.com](mailto:eng.mohamed.soubhi@gmail.com) 
+<p align="center">
+  <strong>13+ years</strong> architecting safety-critical automotive software at <strong>Valeo</strong>, <strong>TTTech Auto (TrustMotion)</strong>, and <strong>Concentrico</strong>.<br/>
+  Bridging <strong>AUTOSAR & Modern C++ embedded platforms</strong> with <strong>Edge AI / TinyML</strong> and <strong>Graph Data Science</strong>.
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamed-soubhi&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/mohamed-soubhi?tab=followers"><img src="https://img.shields.io/github/followers/mohamed-soubhi?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" alt="GitHub Followers" /></a>
+</p>
 
-## What I Work On
+<p align="center">
+  <a href="https://mohamed-soubhi.github.io"><img src="https://img.shields.io/badge/Portfolio-mohamed--soubhi.github.io-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-soubhi"><img src="https://img.shields.io/badge/LinkedIn-Mohamed_Soubhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/mohamedsoubhi"><img src="https://img.shields.io/badge/Kaggle-mohamedsoubhi-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="mailto:eng.mohamed.soubhi@gmail.com"><img src="https://img.shields.io/badge/Email-eng.mohamed.soubhi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- 🚗 **AUTOSAR & Embedded Architecture** — BSW, RTE, and ASW development on **ARM Cortex-M7** & **Infineon AURIX TC3xx** (C & Modern C++17/20)
-- 🛡️ **Functional Safety & Quality** — ISO 26262 (**ASIL B/D**), ASPICE engineering processes, and MISRA-C/C++ compliance
-- 🧠 **Edge AI & TinyML** — Model compression, INT8 post-training quantization, and real-time DSP sensor fusion on bare-metal MCUs (TFLite Micro)
-- 🕸️ **Graph Data Science & AI Agents** — Neo4j GDS topology analytics, Graph Neural Networks (GraphSAGE), and LangGraph agent pipelines for automotive software validation
-- 📡 **Diagnostics & Networks** — UDS (ISO 14229-1), CAN-FD, SOME/IP, Vector CANoe, and DaVinci Configurator
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
----
+</div>
 
-## Technical Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Technologist.png" alt="Technologist" width="32" height="32" /> About Me
 
-**Embedded & Automotive Systems**
+```yaml
+engineer:
+  name: Mohamed Soubhi
+  role: Senior Automotive & Embedded Systems Software Engineer
+  experience: "13+ Years (Valeo, TTTech Auto, Concentrico)"
+  location: "Madrid, Spain 🇪🇸"
+  core_domains:
+    - AUTOSAR Classic (BSW, RTE, ASW) & Modern C++ (17/20)
+    - Safety-Critical Architectures (ISO 26262 ASIL B/D, ASPICE, MISRA)
+    - Edge AI & TinyML (TFLite Micro, INT8 Quantization, MCU Inference)
+    - Graph Data Science & AI Agents (Neo4j GDS, GraphSAGE GNN, LangGraph)
+  current_focus: "Zero-overhead embedded C++, on-device machine learning & automotive data platforms"
+```
 
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/Modern_C%2B%2B17%2F20-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM_Cortex--M7-0091BD?style=flat&logo=arm&logoColor=white)
-![AURIX](https://img.shields.io/badge/AURIX_TC3xx-0A2540?style=flat)
-![AUTOSAR](https://img.shields.io/badge/AUTOSAR_Classic-003B6E?style=flat)
-![ISO 26262](https://img.shields.io/badge/ISO_26262_ASIL_B-10B981?style=flat)
-![MISRA](https://img.shields.io/badge/MISRA--C%2FC%2B%2B-555?style=flat)
-![CAN-FD](https://img.shields.io/badge/CAN--FD_%7C_UDS-D97706?style=flat)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-**Edge AI & Data Science**
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="32" height="32" /> Technical Arsenal
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
-![TFLite Micro](https://img.shields.io/badge/TFLite_Micro_%7C_INT8-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j_GDS-008CC1?style=flat&logo=neo4j&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch_%7C_PyG_GNN-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph_%7C_LLM_Agents-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+### 🚗 Embedded & Automotive Systems
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/Modern_C%2B%2B17%2F20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM_Cortex--M7-0091BD?style=flat-square&logo=arm&logoColor=white)
+![AURIX](https://img.shields.io/badge/AURIX_TC3xx-0A2540?style=flat-square)
+![AUTOSAR](https://img.shields.io/badge/AUTOSAR_Classic-003B6E?style=flat-square)
+![ISO 26262](https://img.shields.io/badge/ISO_26262_ASIL_B%2FD-10B981?style=flat-square)
+![MISRA](https://img.shields.io/badge/MISRA--C%2FC%2B%2B-555?style=flat-square)
+![CAN-FD](https://img.shields.io/badge/CAN--FD_%7C_UDS_(ISO_14229--1)-D97706?style=flat-square)
+![SOME/IP](https://img.shields.io/badge/SOME%2FIP-4F46E5?style=flat-square)
 
-**DevOps & Tooling**
+### 🧠 Edge AI & Data Science
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Apache Parquet](https://img.shields.io/badge/Apache_Parquet-435A64?style=flat-square)
+![TFLite Micro](https://img.shields.io/badge/TFLite_Micro_%7C_INT8-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j_GDS-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch_%7C_PyG_GNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph_%7C_Agents-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-![Vector](https://img.shields.io/badge/Vector_CANoe_%7C_DaVinci-CC0000?style=flat)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+### 🛠️ DevOps, Tooling & Simulation
+![Vector](https://img.shields.io/badge/Vector_CANoe_%7C_DaVinci-CC0000?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![VECTO](https://img.shields.io/badge/VECTO_Simulation-0284C7?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="32" height="32" /> Featured Projects
 
 ### 🧠 The Intelligence Leap: When AI Lives Inside the Thing (Edge AI & TinyML)
 [![Live Project Hub](https://img.shields.io/badge/🌐_Live_Project_Hub-Interactive_App-10b981?style=for-the-badge&logo=github)](https://mohamed-soubhi.github.io/Intelligence-Leap-EdgeAi/)
@@ -105,42 +131,21 @@ An interactive web companion covering **116 course projects** across 12 sections
 
 ---
 
-### 🕵️ Fraud Graph Demo
-
+### 🕵️ Fraud Graph Demo: Real-Time GNN & Knowledge Graph Intelligence
 [![Live App](https://img.shields.io/badge/🌐_Live_App-Interactive_Workspace-10b981?style=for-the-badge&logo=github)](https://mohamed-soubhi.github.io/fraud-graph-demo/)
 [![Repo](https://img.shields.io/badge/📂_Repo-View_Source-24292e?style=for-the-badge&logo=github)](https://github.com/mohamed-soubhi/fraud-graph-demo)
 
-End-to-end fraud detection knowledge graph on PaySim synthetic transactions (50k rows).
-Neo4j 5 + GDS 2.13 · GraphSAGE GNN · LangChain NL→Cypher · Ollama Cloud (`deepseek-v4-flash`)
+End-to-end fraud detection knowledge graph on PaySim synthetic transactions (50k rows). Neo4j 5 + GDS 2.13 · GraphSAGE GNN · LangChain NL→Cypher · Ollama Cloud (`deepseek-v4-flash`):
 
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-
-**GDS Algorithm Pipeline** — Account→Account virtual graph projection:
-
-| Node Property | Algorithm | Fraud Signal |
-|---|---|---|
-| `community` | Louvain | High-fraud-density clusters |
-| `pageRank` | PageRank | Central money-hub accounts |
-| `wccComponent` | WCC | Isolated fraud rings |
-| `betweenness` | Betweenness Centrality | Bridge / relay accounts |
-| `triangleCount` | Cycle Detection (Cypher) | Circular layering flows (A→B→C→A) |
-
-**GNN Layer** — 3-layer GraphSAGE trained on GDS properties as node features → writes `fraudProb ∈ [0,1]` to every account · ensemble with rules maximises recall
-
-**Fraud Rules** — 3 Cypher pattern queries: velocity (>3 txns in 10 steps) · mule chain (A→B→C→cashout) · balance drain (≥95% emptied)
-
-**Benchmark** — WCC 20ms · sampled Betweenness 142× faster than exact · PageRank converges in 2 iterations
+- 🕸️ **GDS Algorithm Pipeline** — Account→Account graph projection with Louvain (`community`), PageRank, WCC, Betweenness, and Cypher cycle detection
+- 🤖 **Graph Neural Network Layer** — 3-layer GraphSAGE trained on topological graph properties writing `fraudProb ∈ [0,1]` to every account
+- ⚡ **Sub-Second Performance** — WCC in 20ms, sampled Betweenness 142× faster than exact, PageRank convergence in 2 iterations
 
 👉 **[Explore Live Fraud Intelligence App](https://mohamed-soubhi.github.io/fraud-graph-demo/)** · 📂 **[View Repository](https://github.com/mohamed-soubhi/fraud-graph-demo)**
 
 ---
 
 ### 📊 Used Car Market Valuation & ML Predictor
-
 [![Live App](https://img.shields.io/badge/🌐_Live_App-Interactive_Predictor-10b981?style=for-the-badge&logo=github)](https://mohamed-soubhi.github.io/used-car-dashboard-demo/)
 [![Repo](https://img.shields.io/badge/📂_Repo-View_Source-24292e?style=for-the-badge&logo=github)](https://github.com/mohamed-soubhi/used-car-dashboard-demo)
 
@@ -152,8 +157,39 @@ Interactive machine learning and market analytics platform trained on over **100
 
 👉 **[Launch Live Valuation App](https://mohamed-soubhi.github.io/used-car-dashboard-demo/)** · 📂 **[View Repository](https://github.com/mohamed-soubhi/used-car-dashboard-demo)**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 📫 Get in Touch
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="32" height="32" /> GitHub Analytics
 
-💼 [LinkedIn](https://www.linkedin.com/in/mohamed-soubhi) · 📧 [eng.mohamed.soubhi@gmail.com](mailto:eng.mohamed.soubhi@gmail.com)  · 🌐 [Portfolio](https://mohamed-soubhi.github.io)
+<div align="center">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-soubhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Mohamed's GitHub Stats" height="175" />
+  <img src="https://streak-stats.demolab.com?user=mohamed-soubhi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-soubhi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Envelope" width="32" height="32" /> Connect & Collaborate
+
+<div align="center">
+
+<p>
+  Feel free to reach out for collaboration on <strong>AUTOSAR architectures</strong>, <strong>Embedded Modern C++</strong>, <strong>Edge AI / TinyML</strong>, or <strong>Graph Data Science</strong>!
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/mohamed-soubhi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:eng.mohamed.soubhi@gmail.com"><img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mohamed-soubhi.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.kaggle.com/mohamedsoubhi"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+</p>
+
+</div>
+
