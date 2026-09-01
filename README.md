@@ -164,12 +164,12 @@ Interactive machine learning and market analytics platform trained on over **100
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-soubhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Mohamed's GitHub Stats" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mohamed-soubhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Mohamed's GitHub Stats" height="175" />
   <img src="https://streak-stats.demolab.com?user=mohamed-soubhi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-soubhi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohamed-soubhi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
 </p>
 
 </div>
