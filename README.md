@@ -35,6 +35,7 @@ Bridging **AUTOSAR & Modern C++ embedded platforms** with **Edge AI / TinyML** a
 **Edge AI & Data Science**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 ![TFLite Micro](https://img.shields.io/badge/TFLite_Micro_%7C_INT8-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j_GDS-008CC1?style=flat&logo=neo4j&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch_%7C_PyG_GNN-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -67,6 +68,23 @@ A technical conference presentation, interactive telemetry laboratory, and archi
 - ⚙️ **The 4 Embedded Constraints** — engineering for sub-milliwatt power budgets, kilobyte SRAM memory ceilings, `< 10 ms` latency, and tiny physical form factors
 
 👉 **[Launch Live Project Hub](https://mohamed-soubhi.github.io/Intelligence-Leap-EdgeAi/)** · 🖥️ **[Open Slide Deck](https://mohamed-soubhi.github.io/Intelligence-Leap-EdgeAi/Edge%20AI.html)** · 📂 **[View Repository](https://github.com/mohamed-soubhi/Intelligence-Leap-EdgeAi)**
+
+---
+
+### 🚛 Competitive Powertrain Benchmarking & CO₂ Simulation Platform
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Interactive_App-10b981?style=for-the-badge&logo=github)](https://mohamed-soubhi.github.io/Competitive-Powertrain-Benchmarking/)
+[![Technical Docs](https://img.shields.io/badge/📖_Documentation-Technical_Guide-38bdf8?style=for-the-badge)](https://mohamed-soubhi.github.io/Competitive-Powertrain-Benchmarking/documentation.html)
+[![Slide Deck](https://img.shields.io/badge/🖥️_Slide_Deck-16_Slides-a855f7?style=for-the-badge)](https://mohamed-soubhi.github.io/Competitive-Powertrain-Benchmarking/presentation.html)
+[![Target Domain](https://img.shields.io/badge/Domain-Heavy--Duty_Vehicles_%7C_VECTO-ef4444?style=for-the-badge&logo=speedtest)](https://github.com/mohamed-soubhi/Competitive-Powertrain-Benchmarking)
+
+EU heavy-duty vehicle (truck/bus) powertrain benchmarking and $CO_2$ simulation platform built on European Environment Agency (EEA / VECTO) regulatory datasets (750k+ records):
+
+- ⛏️ **Automated Data Mining & Ingestion** — SQL-over-HTTP pipeline mining live EEA Discodata, physical bounds validation (Pydantic), and high-performance column store (DuckDB + Apache Parquet)
+- 🧠 **ML Surrogate Modeling** — Non-linear `HistGradientBoostingRegressor` (5-Fold CV, MAE 27.8) predicting certified $CO_{2v}$ emissions in sub-milliseconds from macro engineering specs
+- 🛡️ **Target Leakage Guard** — Strict engine dyno cycle test isolation (`assert_no_leakage`) and SHA-256 data manifest tracking for regulatory auditability
+- 📊 **Interactive Multi-Tab Dashboard** — OEM competitive powertrain analysis, component trade-off matrix, technology adoption curves, and real-time interactive $CO_2$ simulation
+
+👉 **[Explore Live Demo](https://mohamed-soubhi.github.io/Competitive-Powertrain-Benchmarking/)** · 📖 **[Read Technical Docs](https://mohamed-soubhi.github.io/Competitive-Powertrain-Benchmarking/documentation.html)** · 🖥️ **[Open Slide Deck](https://mohamed-soubhi.github.io/Competitive-Powertrain-Benchmarking/presentation.html)** · 📂 **[View Repository](https://github.com/mohamed-soubhi/Competitive-Powertrain-Benchmarking)**
 
 ---
 
